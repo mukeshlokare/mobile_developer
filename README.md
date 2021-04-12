@@ -22,7 +22,7 @@ I’ve always sought out opportunities and challenges that are meaningful to me.
 
 And I am always interested/flexible to work on the latest tech.
 
-I'm currently working at Neosoft technologies where I develop mobile applications in domain like OTT, tvOS, Social, Lifestyle, Music, E-commerce, Food Order & Delivery, Bluetooth etc.
+I'm currently working at Neosoft technologies where I develop mobile applications in domain like OTT, tvOS, Social, Lifestyle, Music, E-commerce, Food Order & Delivery, Bluetooth, Sport, Live Streaming etc.
 
 ## Profiles
 

@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hello, That's Me!
 
-#### iOS | tvOS | Swift | SwiftUI | RxSwift | Android | Flutter, Learner 
+#### iOS | tvOS | Swift | SwiftUI | RxSwift | Flutter, Learner 
 
 I am a iOS Application Developer with over 7+ Year's IT Experience and I want to make things that make a difference. 
 

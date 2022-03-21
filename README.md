@@ -18,19 +18,19 @@ Here are some ideas to get you started:
 
 I am a iOS Application Developer with over 7+ Year's IT Experience and I want to make things that make a difference. 
 
-😊 I’ve always sought out opportunities and challenges that are meaningful to me. 
-😄 I am always interested/flexible to work on the latest technologies & skills.
-🔭 I'm currently working at IBM, India where I develop iOS applications. 
-🌱 I’m currently learnning & gracing up skills on the IBM learning portal.
-💪 I've worked on domains like OTT, Finance & Banking, tvOS, Lifestyle, Music, E-commerce, Food & Delivery, Bluetooth, Sport, Live Streaming etc.
-😎 I’m always passinate to work on challenges.
+- 😊 I’ve always sought out opportunities and challenges that are meaningful to me. 
+- 😄 I am always interested/flexible to work on the latest technologies & skills.
+- 🔭 I'm currently working at IBM, India where I develop iOS applications. 
+- 🌱 I’m currently learnning & gracing up skills on the IBM learning portal.
+- 💪 I've worked on domains like OTT, Finance & Banking, tvOS, Lifestyle, Music, E-commerce, Food & Delivery, Bluetooth, Sport, Live Streaming etc.
+- 😎 I’m always passinate to work on challenges.
 
 ## 📫 Reach@ME
 📧 mukesh.lokare1@gmail.com
 📲 +919767560214
 
 
-[![stackoverflow](https://stackoverflow.com/users/flair/4294543)](https://stackoverflow.com/users/4294543/mukesh?tab=profile)
+[[stackoverflow](https://stackoverflow.com/users/flair/4294543)](https://stackoverflow.com/users/4294543/mukesh?tab=profile)
 
 [Twitter- @mukesh_lokare](https://twitter.com/mukesh_lokare)
 

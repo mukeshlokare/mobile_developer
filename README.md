@@ -26,11 +26,9 @@ I am a iOS Application Developer with over 7+ Year's IT Experience and I want to
 - 😎 I’m always passinate to work on challenges.
 
 ## 📫 Reach@ME
-📧 mukesh.lokare1@gmail.com
-📲 +919767560214
+- 📧 mukesh.lokare1@gmail.com
+- 📲 +919767560214
 
-
-[[stackoverflow](https://stackoverflow.com/users/flair/4294543)](https://stackoverflow.com/users/4294543/mukesh?tab=profile)
 
 [Twitter- @mukesh_lokare](https://twitter.com/mukesh_lokare)
 
